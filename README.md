@@ -1,2 +1,2 @@
 # Ecommerce-Site-Carllage
-Ce site et un projet d'une ste qui fait le Carllage
+C'est Un Projet De E-commerce 
